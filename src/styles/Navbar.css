@@ -1,0 +1,95 @@
+.navbar-dark-theme {
+    background: rgba(15, 17, 23, 0.85) !important;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.navbar-dark-theme .navbar-brand {
+    font-weight: 800;
+    color: #ffffff;
+}
+.navbar-dark-theme .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-dark-theme .nav-link {
+    font-weight: 600;
+    font-size: 0.88rem;
+    color: #9999bb !important;
+    transition: color 0.2s;
+}
+.navbar-dark-theme .nav-link:hover,
+.navbar-dark-theme .nav-link:focus {
+    color: #ffffff !important;
+}
+
+.navbar-dark-theme .dropdown-menu {
+    background: #1a1c26;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4), 0 4px 6px -2px rgba(0,0,0,0.25);
+    padding: 0.5rem;
+}
+
+.navbar-dark-theme .dropdown-item {
+    font-weight: 600;
+    font-size: 0.84rem;
+    color: #9999bb;
+    border-radius: 8px;
+    transition: background 0.15s, color 0.15s;
+}
+.navbar-dark-theme .dropdown-item:hover {
+    background: rgba(108, 99, 255, 0.18);
+    color: #ffffff;
+}
+
+.navbar-dark-theme .navbar-toggler {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.navbar-dark-theme .navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.navbar-dark-theme .search-input {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-right: none;
+    border-radius: 999px 0 0 999px;
+    color: #f0f0f5;
+    font-size: 0.84rem;
+    font-weight: 600;
+}
+.navbar-dark-theme .search-input::placeholder {
+    color: #9999bb;
+}
+.navbar-dark-theme .search-input:focus {
+    background: rgba(255, 255, 255, 0.10);
+    border-color: rgba(108, 99, 255, 0.5);
+    box-shadow: none;
+    color: #f0f0f5;
+}
+
+.navbar-dark-theme .search-btn {
+    background: rgba(108, 99, 255, 0.18);
+    border: 1px solid rgba(108, 99, 255, 0.35);
+    border-left: none;
+    border-radius: 0 999px 999px 0;
+    color: #a89fff;
+    transition: background 0.2s, color 0.2s;
+}
+.navbar-dark-theme .search-btn:hover {
+    background: rgba(108, 99, 255, 0.35);
+    color: #ffffff;
+}
+
+@media (max-width: 991px) {
+    .navbar-dark-theme .navbar-collapse {
+        background: rgba(15, 17, 23, 0.97);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 14px;
+        padding: 1rem 1.25rem;
+        margin-top: 0.75rem;
+    }
+}
