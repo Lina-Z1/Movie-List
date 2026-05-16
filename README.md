@@ -11,7 +11,7 @@ A modern, responsive movie and TV show discovery app built with React and Bootst
 - 🎞️ Watch trailers via YouTube embed
 - 👥 View full cast with links to actor profiles
 - 🎬 Related movies and shows on detail pages
-- 📱 Fully responsive — mobile, tablet, desktop
+- 📱 Fully responsive  mobile, tablet, desktop
 
 ## 🛠️ Tech Stack
 
