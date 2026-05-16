@@ -1,16 +1,28 @@
-# React + Vite
+# 🎬 MovieDB — React Movie & TV Show website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive movie and TV show discovery app built with React and Bootstrap 5, powered by the TMDB API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎥 Browse movies by genre (Horror, Comedy, Romance, Sci-Fi, Adventure)
+- 📺 Browse TV shows (Popular, Airing Today, On TV, Top Rated)
+- 🔍 Search movies and TV shows simultaneously
+- 🎭 Explore actors and their filmographies
+- 🎞️ Watch trailers via YouTube embed
+- 👥 View full cast with links to actor profiles
+- 🎬 Related movies and shows on detail pages
+- 📱 Fully responsive — mobile, tablet, desktop
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Tech |
+|---|---|
+| React | UI framework |
+| Bootstrap 5 | Styling and layout |
+| Bootstrap Icons | Icon library |
+| TMDB API | Movie and TV data |
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ <img width="1347" height="565" alt="Screenshot (5957)" src="https://github.com/user-attachments/assets/0bb21dda-f016-42d2-884a-f5f7b5d007be" />
+<img width="1344" height="565" alt="Screenshot (5959)" src="https://github.com/user-attachments/assets/0080294a-565a-42c0-9a71-4caac862cfe6" />
+<img width="1341" height="568" alt="Screenshot (5958)" src="https://github.com/user-attachments/assets/5b519eba-5c8d-432a-a816-d2d252b76b9b" />
+<img width="1349" height="567" alt="Screenshot (5956)" src="https://github.com/user-attachments/assets/d8d2084f-851e-47b5-8191-9603cb3d3d7a" />
