@@ -1,4 +1,4 @@
-# 🎬 MovieDB — React Movie & TV Show website
+# 🎬 Movie List | React Movie & TV Show website
 
 A modern, responsive movie and TV show discovery app built with React and Bootstrap 5, powered by the TMDB API.
 
