@@ -1,7 +1,10 @@
 # 🎬 Movie List | React Movie & TV Show website
 
 A modern, responsive movie and TV show discovery app built with React and Bootstrap 5, powered by the TMDB API.
+
+
 🌐 Live Demo [[🔗 View Website](https://movielist-website.netlify.app/)]
+
 ## 🚀 Features
 
 - 🎥 Browse movies by genre (Horror, Comedy, Romance, Sci-Fi, Adventure)
