@@ -1,6 +1,7 @@
-# 🎬 Movie List | React Movie & TV Show website
-<img width="1145" height="1791" alt="movielist" src="https://github.com/user-attachments/assets/997e6ddf-9b4a-4a31-ba03-52013d3aa83a" />
 
+# 🎬 Movie List | React Movie & TV Show website
+
+<img width="1344" height="494" alt="gif" src="https://github.com/user-attachments/assets/dd8ffcce-bb37-4693-aa35-57257b582f4e" />
 
 ---
 
