@@ -15,7 +15,7 @@
 A modern, responsive movie and TV show discovery app built with React and Bootstrap 5, powered by the TMDB API.
 
 
- [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://movielist-website.netlify.app/)
+ [![Visit Website](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://movielist-website.netlify.app/)
 
  
 ## 🚀 Features
